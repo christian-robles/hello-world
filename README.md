@@ -1,3 +1,3 @@
 # hello-world
-Figure out Github
-My name is Christian. I am a programmer.
+Figuring out GitHub
+Hello! My name is Gierael.
